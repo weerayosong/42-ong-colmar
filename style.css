@@ -219,3 +219,51 @@ hr {
     }
 }
 /* End of information */
+
+/* Start of course */
+.course {
+
+    h2 {
+        display: flex;
+        justify-content: center;
+        padding: 32px 0;
+    }
+}
+
+.course-wrapper {
+    background-color: var(--bg-soft);
+    padding-bottom: 32px;
+    
+    .course-grid {
+        margin: 0 72px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 32px;
+               
+        .course-grid-item {
+            border: 1px solid var(--line);
+            background-color: var(--white);
+            .course-grid-item-img {
+                /* border: 1px red solid; */
+                
+                img {
+                    width: 100%;
+                }
+            }
+            
+            .course-grid-item-info {
+                padding: 0 16px 24px;
+                            
+                /* margin-bottom: 32px; */
+                h3 {
+                    padding-top: 16px;
+                }
+
+                p {
+                   padding-top: 8px; 
+                }
+            }
+        }
+    }  
+}
+/* End of course */

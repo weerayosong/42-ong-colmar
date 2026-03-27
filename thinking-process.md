@@ -37,7 +37,7 @@
 1. Everyday I'm shuffling, lol. but today I'll use pure CSS (because I'm not ready to use TailwindCSS yet.)
 2. I'm not proficient in mobile-first or responsive yet, then I'll start with what I good at first. (Yup, it's desktop view.)
 3. I'll make my website with each section from top to bottom. one-by-one at a time.
-4. first section >> header(nav) with it css
+4. first section >> header(nav) with its css
   - html >> nothing much .nav-logo on the left, ul.nav-menu on the right
   - css >> justify them with flex "space-between" (like this)
 ```
@@ -63,7 +63,14 @@
 * ## information section build Phase
 1. It's look complicate at first sight but nah, you can do it!
 2. first, see it as a 2 boxes >> left one and right  💊🩹..Which one do you choose? Neo.
-3. just complete the left one first, .information-main >> img h2 q and p, flex column for this box, cool~
-4. Now, solve the another mystery, the right one, flex column'll bless you, cool~
-5. Makeup them with padding margin and etc. cool? cool~ 
-5. Push? cool~
+3. just complete the left one first, .information-main >> img h2 q and p, flex column for this box, cool~ 😎
+4. Now, solve the another mystery, the right one, flex column'll bless you, cool~ 😎
+5. Makeup them with padding margin and etc. cool? cool~ 😎
+5. Push? cool~ 😎😎😎
+
+* ## ofcourse? yup! it's course section build Phase
+1. grid for the life!
+2. yup, display: grid'll make this section easy like a magic >> 3 columns? "1fr 1fr 1r" 🪄
+3. But this section not that's so easy, just focus on its details. 🤔
+4. git add ., git commit -m "something else", git push origin main
+
