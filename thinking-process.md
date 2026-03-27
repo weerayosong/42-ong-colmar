@@ -59,3 +59,11 @@
 2. flex default for box left(banner) and right(info)
 3. add some details eg. margin padding etc.
 4. HERO's time! Push!
+
+* ## information section build Phase
+1. It's look complicate at first sight but nah, you can do it!
+2. first, see it as a 2 boxes >> left one and right  💊🩹..Which one do you choose? Neo.
+3. just complete the left one first, .information-main >> img h2 q and p, flex column for this box, cool~
+4. Now, solve the another mystery, the right one, flex column'll bless you, cool~
+5. Makeup them with padding margin and etc. cool? cool~ 
+5. Push? cool~

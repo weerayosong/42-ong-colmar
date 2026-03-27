@@ -139,3 +139,83 @@ hr {
     }
 }
 /* End of hero */
+
+/* Start of information */
+.information-wrapper {
+    display: flex;
+    align-items: flex-start;
+    background-color: var(--bg-white);
+
+    .information-main {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        padding: 32px 24px;
+        width: 60%;
+
+        img {
+            width: 100%;
+        }
+
+        h2 {
+            margin: 32px 0 24px 0;
+        }
+        
+        q {
+            font-style: italic;
+        }
+        
+        p {
+            margin-top: 32px;
+            font-weight: 500;
+        }
+    }
+
+    .information-side {
+        /* margin-top: 32px; */
+        display: flex;
+        flex-direction: column;
+        justify-content:space-between;
+        width: 40%;
+
+        .information-side-article {
+            display: flex;
+            width: 100%;
+            border: 1px solid var(--line);
+            margin: 0 0 2px 0;
+
+            .information-side-img {
+                width: 35%;
+                
+                img {
+                    width: 100%;
+                    padding: 16px;
+                }
+            }
+    
+            .information-side-info {
+                width: 65%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                
+
+                h3 {
+                    font-size: 18px;
+                    margin-bottom: 8px;
+                }
+    
+                p {
+                    font-size: 14px;
+                    margin-bottom: 8px;
+                }
+    
+                a {
+                    text-decoration: none;
+                    color: var(--link);
+                }
+            }
+        }
+    }
+}
+/* End of information */
