@@ -88,3 +88,11 @@
 1. add some class for desktop and mobile view (only)
 2. arrange them with flex and display:none something!
 3. push! 🫠
+
+* ## [mobile view] hero nav
+1. Thanks! W3Schools! >> Ican inject media Queries NOW!!
+```
+2. @media only screen and (max-width: 768px) {}
+```
+3. VERY GOOD! 👍👍👍
+4.Hero's landing PUSH!! ☄️👊🏻💥
