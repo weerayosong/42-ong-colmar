@@ -103,3 +103,7 @@
 
 * ## [mobile view] course
 1. push.
+
+* ## [mobile view] thesis & footer
+1. push.
+1. and well done!
