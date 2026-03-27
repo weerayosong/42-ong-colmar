@@ -53,3 +53,9 @@
     .nav-logo { ...
 ```
 5. Boom! it's time for second commit to push. 🤩
+
+* ## super HERO! section build Phase 😈
+1. Yup, left box image, right one's h1 slogan some p and my cool button with a.
+2. flex default for box left(banner) and right(info)
+3. add some details eg. margin padding etc.
+4. HERO's time! Push!

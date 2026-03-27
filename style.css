@@ -95,3 +95,47 @@ hr {
     }   
 }
 /* End of nav */
+
+/* Start of hero */
+.hero-wrapper {
+    display: flex;
+    background-color: var(--bg-hard);
+
+    .hero-banner {
+        display: flex;
+        padding: 32px 24px;
+        width: 60%;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .hero-info {
+        width: 28%;
+        height: 300px;
+
+        h1 {
+            font-size: 36px;
+            margin: 20px 0;     
+        }
+
+        p {
+            font-size: 16px;
+            margin: 20px 0;        
+        }
+
+        .hero-btn {
+            background-color: var(--text-hard);
+            color: var(--white);
+            text-decoration: none;
+            width: 100%;
+            padding: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0;
+        }
+    }
+}
+/* End of hero */
