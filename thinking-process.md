@@ -32,3 +32,24 @@
 </body>
 ```
 4. Ok, It's about time to push the first commit. 😋 
+
+* ## header(nav) section build Phase
+1. Everyday I'm shuffling, lol. but today I'll use pure CSS (because I'm not ready to use TailwindCSS yet.)
+2. I'm not proficient in mobile-first or responsive yet, then I'll start with what I good at first. (Yup, it's desktop view.)
+3. I'll make my website with each section from top to bottom. one-by-one at a time.
+4. first section >> header(nav) with it css
+  - html >> nothing much .nav-logo on the left, ul.nav-menu on the right
+  - css >> justify them with flex "space-between" (like this)
+```
+/* Start of nav */
+.nav-wrapper {
+    height: 64px;
+    background-color: var(--white);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 24px;
+
+    .nav-logo { ...
+```
+5. Boom! it's time for second commit to push. 🤩
