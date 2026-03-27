@@ -100,3 +100,6 @@
 * ## [mobile view] information
 1. :)
 2. push 🖐🏻
+
+* ## [mobile view] course
+1. push.
