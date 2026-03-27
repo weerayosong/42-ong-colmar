@@ -89,10 +89,14 @@
 2. arrange them with flex and display:none something!
 3. push! 🫠
 
-* ## [mobile view] hero nav
-1. Thanks! W3Schools! >> Ican inject media Queries NOW!!
+* ## [mobile view] hero
+1. Thanks! W3Schools! >> I can inject Media Queries NOW!!
 ```
 2. @media only screen and (max-width: 768px) {}
 ```
 3. VERY GOOD! 👍👍👍
-4.Hero's landing PUSH!! ☄️👊🏻💥
+4. Hero's landing PUSH!! ☄️👊🏻💥
+
+* ## [mobile view] information
+1. :)
+2. push 🖐🏻
