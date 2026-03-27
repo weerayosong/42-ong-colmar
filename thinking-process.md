@@ -79,3 +79,7 @@
 2. Just do it, and don't forget any details.
 3. add >> commit and push.
 
+* ## footer section build Phase
+1. Nothing to says more here, just prepare, plan and do it.
+2. prepare for my hell hour. next, mobile-view and responsive. 🔥👿🔥
+3. p.. p push! 🔥🔥👿🔥🔥
