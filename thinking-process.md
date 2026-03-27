@@ -70,7 +70,7 @@
 
 * ## ofcourse? yup! it's course section build Phase
 1. grid for the life!
-2. yup, display: grid'll make this section easy like a magic >> 3 columns? "1fr 1fr 1r" 🪄
+2. yup, display: grid'll make this section easy like a magic >> 3 columns? "1fr 1fr 1fr" 🪄
 3. But this section not that's so easy, just focus on its details. 🤔
 4. git add ., git commit -m "something else", git push origin main
 
@@ -83,3 +83,8 @@
 1. Nothing to says more here, just prepare, plan and do it.
 2. prepare for my hell hour. next, mobile-view and responsive. 🔥👿🔥
 3. p.. p push! 🔥🔥👿🔥🔥
+
+* ## [mobile view] header nav
+1. add some class for desktop and mobile view (only)
+2. arrange them with flex and display:none something!
+3. push! 🫠

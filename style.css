@@ -374,3 +374,62 @@ hr {
     }
 }
 /* End of footer */
+
+.mobile-icon {
+    display: none;
+    width: 24px;
+    height: auto;
+}
+.nav-logo a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+/* Test for Tablet screen size */
+@media screen and (max-width: 1024px) {
+    /* 2 columns and reduce margin */
+    .course-wrapper .course-grid {
+        grid-template-columns: 1fr 1fr;
+        margin: 0 24px;
+    }
+}
+
+/* =========================================
+   mobile-view and responsive
+   ========================================= */   
+
+@media (max-width: 768px) { 
+    
+    .container {
+        padding: 0;
+    }
+
+    /*Start of mv header */
+    .nav-wrapper {
+        margin: 0;
+        padding: 0 16px;
+        justify-content: center;
+    }
+    
+    .nav-logo {
+        /* test */
+        /* flex: 1; */
+    }
+
+    .nav-wrapper .nav-menu {
+        display: flex;
+        margin-top: 0;
+    }
+    
+    .desktop-only, .desktop-link {
+        display: none;
+    }
+    
+    .mobile-icon {
+        display: block;
+        margin-left: 16px;
+    }
+
+    
+}
