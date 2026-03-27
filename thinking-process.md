@@ -74,3 +74,8 @@
 3. But this section not that's so easy, just focus on its details. 🤔
 4. git add ., git commit -m "something else", git push origin main
 
+* ## thesis section build Phase 📖📚📚📚📚📚📚📚📚📚📚📚📚📄🎓
+1. This layout look familiar? yup it's information section's layout!
+2. Just do it, and don't forget any details.
+3. add >> commit and push.
+
